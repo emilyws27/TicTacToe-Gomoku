@@ -1,16 +1,4 @@
-Emily Sheehan, e.sheehan@wustl.edu
-Michael Treiber, m.treiber@wustl.edu
-Jeff Mao, jeff.m@wustl.edu
-
-What we each did:
-We all met and worked together on all of the steps of the lab last weekend. We worked around one person's computer and walked through each instruction together. There were some problems in our code that we split up and addressed
-separately, but we got the main functionality of the code working.
-- Emily added the previous turns feature to the Tic Tac Toe game, and also wrote the draw method to see if there were possible winning moves left. She also did all of the commenting for the project.
-- Jeff's lab 3 served as our base code. He and Michael went to office hours and were able to fix an alignment and printing problem that we were having. He also fixed a problem where quit was returning 0.
-- Michael went with Jeff to office hours to fix the alignment problem. He also addressed the warnings that we were getting that involved not assigning values to variables. He also fixed a problem where the x and y coords were flipped.
-
-Warnings: None
-
+This is a TicTacToe and Gomoku game app that I built in C++ that runs in the console. To run, navigate to the folder in your cmd prompt, and type in Lab4.exe <Game> (either Gomoku or TicTacToe.) From there, follow the prompts.
 Test Cases:
 ---------------------Invalid Move in TicTacToe--------------------------------------------------------------------------------------------------
 Type quit to quit or type enter two numbers with a comma in the middle to represent the coordinates of where you would like to play example: 0,0
